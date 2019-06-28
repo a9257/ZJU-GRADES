@@ -9,7 +9,7 @@ A script to get ZJUer's grades on http://jwbinfosys.zju.edu.cn/default2.aspx
     PASSWORD = '123456'  # 填入密码
     MAIL_HOST = 'smtp.qq.com'  # SMTP服务器
     MAIL_USER = '123456789@qq.com'  # 邮箱用户名
-    MAIL_PASS = '****************'  # 邮箱密码
+    MAIL_PASS = '****************'  # 邮箱授权码
     SENDER = '123456789@qq.com'  # 发件人
     RECEIVER = '123456789@qq.com'  # 收件人
     ```
